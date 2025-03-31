@@ -1,0 +1,185 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Apple iPhone 13 Pro Max",
+        "description": "6.7-inch Super Retina XDR display with ProMotion. Ceramic Shield front",
+        "price": 1099,
+        "quantity": 10,
+        "category": "Smartphones",
+        "brand": "Apple"
+      },
+      {
+        "id": 2,
+        "name": "Samsung Galaxy S21 Ultra",
+        "description": "6.8-inch Dynamic AMOLED 2X display. Gorilla Glass Victus front and back",
+        "price": 1199,
+        "quantity": 8,
+        "category": "Smartphones",
+        "brand": "Samsung"
+      },
+      {
+        "id": 3,
+        "name": "Apple MacBook Air",
+        "description": "13.3-inch Retina display with True Tone. M1 chip. 8-core CPU. 7-core GPU",
+        "price": 999,
+        "quantity": 5,
+        "category": "Laptops",
+        "brand": "Apple"
+      },
+      {
+        "id": 4,
+        "name": "Sony WH-1000XM4 Headphones",
+        "description": "Industry-leading noise cancellation with exceptional sound quality",
+        "price": 349,
+        "quantity": 15,
+        "category": "Accessories",
+        "brand": "Sony"
+      },
+      {
+        "id": 5,
+        "name": "Dell XPS 13 Laptop",
+        "description": "13.4-inch FHD+ InfinityEdge display, Intel Core i7 processor",
+        "price": 1249,
+        "quantity": 7,
+        "category": "Laptops",
+        "brand": "Dell"
+      },
+      {
+        "id": 6,
+        "name": "Google Pixel 6",
+        "description": "6.4-inch AMOLED display with Google Tensor processor",
+        "price": 699,
+        "quantity": 20,
+        "category": "Smartphones",
+        "brand": "Google"
+      },
+      {
+        "id": 7,
+        "name": "Bose SoundLink Bluetooth Speaker",
+        "description": "Portable wireless speaker with rich sound quality",
+        "price": 129,
+        "quantity": 25,
+        "category": "Accessories",
+        "brand": "Bose"
+      },
+      {
+        "id": 8,
+        "name": "Apple Watch Series 7",
+        "description": "45mm Retina display with advanced fitness tracking features",
+        "price": 399,
+        "quantity": 18,
+        "category": "Wearables",
+        "brand": "Apple"
+      },
+      {
+        "id": 9,
+        "name": "Microsoft Surface Pro 8",
+        "description": "13-inch touchscreen with Intel Core i5 processor",
+        "price": 899,
+        "quantity": 12,
+        "category": "Tablets",
+        "brand": "Microsoft"
+      },
+      {
+        "id": 10,
+        "name": "Samsung Galaxy Tab S8",
+        "description": "11-inch LTPS LCD display with Qualcomm Snapdragon processor",
+        "price": 799,
+        "quantity": 14,
+        "category": "Tablets",
+        "brand": "Samsung"
+      },
+      {
+        "id": 11,
+        "name": "HP Omen Gaming Laptop",
+        "description": "15.6-inch FHD display with NVIDIA GeForce RTX graphics",
+        "price": 1299,
+        "quantity": 8,
+        "category": "Laptops",
+        "brand": "HP"
+      },
+      {
+        "id": 12,
+        "name": "Fitbit Charge 5",
+        "description": "Advanced health and fitness tracker with built-in GPS",
+        "price": 179,
+        "quantity": 30,
+        "category": "Wearables",
+        "brand": "Fitbit"
+      },
+      {
+        "id": 13,
+        "name": "Apple AirPods Pro",
+        "description": "Active noise cancellation with spatial audio technology",
+        "price": 249,
+        "quantity": 40,
+        "category": "Accessories",
+        "brand": "Apple"
+      },
+      {
+        "id": 14,
+        "name": "Lenovo ThinkPad X1 Carbon",
+        "description": "14-inch UHD display with Intel Core i7 processor",
+        "price": 1599,
+        "quantity": 5,
+        "category": "Laptops",
+        "brand": "Lenovo"
+      },
+      {
+        "id": 15,
+        "name": "Amazon Echo Dot (4th Gen)",
+        "description": "Smart speaker with Alexa voice control",
+        "price": 49,
+        "quantity": 50,
+        "category": "Accessories",
+        "brand": "Amazon"
+      },
+      {
+        "id": 16,
+        "name": "Samsung Galaxy Z Fold 3",
+        "description": "7.6-inch foldable AMOLED display with 120Hz refresh rate",
+        "price": 1799,
+        "quantity": 3,
+        "category": "Smartphones",
+        "brand": "Samsung"
+      },
+      {
+        "id": 17,
+        "name": "Sony PlayStation 5",
+        "description": "Next-gen gaming console with ultra-fast SSD and 4K graphics",
+        "price": 499,
+        "quantity": 10,
+        "category": "Gaming",
+        "brand": "Sony"
+      },
+      {
+        "id": 18,
+        "name": "Logitech MX Master 3 Mouse",
+        "description": "Advanced ergonomic wireless mouse with precision tracking",
+        "price": 99,
+        "quantity": 22,
+        "category": "Accessories",
+        "brand": "Logitech"
+      },
+      {
+        "id": 19,
+        "name": "Apple iPad Pro (2022)",
+        "description": "12.9-inch Liquid Retina XDR display with M2 chip",
+        "price": 1099,
+        "quantity": 10,
+        "category": "Tablets",
+        "brand": "Apple"
+      },
+      {
+        "id": 20,
+        "name": "Razer Kraken Gaming Headset",
+        "description": "High-performance headset with 7.1 surround sound",
+        "price": 79,
+        "quantity": 35,
+        "category": "Gaming",
+        "brand": "Razer"
+      }
+    ]
+  }
+  

@@ -1,9 +1,10 @@
 ==============github================
-1.stage the file changes
-2.add comment
-3.commit the files
-4.sync chnages or git push origin push(this will push the changes in remote repository)
+1.stage the file changes  (git add . {for all files})  (git add filename path name)
+2.add comment 
+3.commit the files   (git commit -m "comment")
 
+4.sync chnages or git push origin push(this will push the changes in remote repository)
+(git push origin branchname)
 ==========create a new branch===========
 1. go to checkout To option and select create new branch and give branch name
 (git checkout -b branchname)
